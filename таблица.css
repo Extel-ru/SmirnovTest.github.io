@@ -1,0 +1,38 @@
+table {
+  width: 100%;
+  border-collapse: collapse; 
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2; 
+}
+
+caption {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.name {
+  width: 100%;
+  box-sizing: border-box;
+  border: none;
+  height: 25px;
+}
+
+.green-row {
+  background-color: #0de20d;
+}
+
+.red-row {
+  background-color: #f10e30;
+}
+
+.yellow-row {
+  background-color: #f1f10c;
+}
